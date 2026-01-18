@@ -1,5 +1,11 @@
 ### 👥 Group D Members 
 
+| ID       | Name                      
+| -------- | ------------------------- |
+| C1220572 | Ahmed Abduqadir Abdullahi |
+| C1220587 | Abdulhaq Mohamed Abdulle  |
+| C1220439 | Imran Hashi Abdullahi     | 
+| C1221228 | Mohamed Abdi Warsame      | 
 
 #  BBMS - Blood Banking Management System
 
@@ -143,6 +149,7 @@ BBMS/
 
 
 © 2025 **BBMS Project**. All Rights Reserved.
+
 
 
 
